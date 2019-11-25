@@ -9,4 +9,4 @@ This program generates additional addresses for your Gmail account. All letters 
 
 # Download :
 
-[Download for Windows](https://github.com/loci456/email-address-generation-for-gmail-/releases/download/0.1/genGmail.exe)
+[Download for Windows](https://github.com/loci456/email-address-generation-for-gmail-/releases/download/0.1/genGmailV2.exe)
