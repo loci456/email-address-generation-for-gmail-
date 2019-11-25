@@ -1,7 +1,7 @@
 import random
 from itertools import product
 
-f = open("Gmail_generate.txt", "w")
+
 gmail = ['@gmail.com', '@googlemail.com']
 gen = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 
