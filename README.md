@@ -7,19 +7,20 @@ This program generates additional addresses for your Gmail account. All letters 
   
      1. With a dot.
      
-      Enter your email before the '@' symbol
+        Enter your email before the '@' symbol
      
      2. With the addition at the end.
      
-      Enter your email before the '@' symbol
+        Enter your email before the '@' symbol
       
-      Set the required number of addresses
+        Set the required number of addresses
       
-      Set maximum generation length
+        Set maximum generation length
      
      3. Combined variant.
      
-      Same thing as in paragraph 2
+        Same thing as in paragraph 2
+        
   Wait for the generation process to complete. All addresses are saved to a file next to the program.( name file : '      Gmail_generate.txt ' ).
 
 # Download :
